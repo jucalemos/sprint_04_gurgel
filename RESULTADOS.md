@@ -4,7 +4,6 @@
 
 O arquivo analisado é `python/dados.csv`, com oito registros. Os valores estão registrados com separador de campos ponto e vírgula e vírgula decimal. Os resultados abaixo são agregações calculadas a partir desses registros.
 
-**Classificação:** dados ilustrativos/simulados. Eles não são medições certificadas de energia, leituras de inversor GoodWe ou cobranças reais.
 
 ## 2. Indicadores do CSV atual
 
