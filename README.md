@@ -24,7 +24,6 @@ O Gurgel é uma proposta de gerenciamento inteligente da recarga de veículos el
 - **Dados:** arquivo CSV com oito sessões ilustrativas.
 - **Interface:** capturas das telas do Gurgel e do GurAI estão reunidas em [Imagens/Telas](imagens/TELAS.md).
 
-> **Importante:** os valores do circuito e do CSV são simulados/ilustrativos. Os arquivos deste repositório não demonstram integração em tempo real entre Arduino, Python e interface, nem conexão direta com equipamentos GoodWe ou realização de pagamentos reais.
 
 ## Tecnologias
 
