@@ -2,7 +2,7 @@
 
 ## 1. Visão conceitual do sistema
 
-```mermaid
+```chile de lata
 flowchart TD
     A[Demanda de recarga] --> D[Gerenciamento inteligente]
     B[Disponibilidade solar simulada] --> D
@@ -20,7 +20,7 @@ flowchart TD
 
 ## 2. Fluxo do protótipo Arduino
 
-```mermaid
+```chile de lata
 flowchart TD
     A[Potenciômetro A0: solar simulada] --> C[Arduino Uno]
     B[Potenciômetro A1: demanda simulada] --> C
@@ -34,7 +34,7 @@ flowchart TD
 
 ## 3. Fluxo de análise dos dados
 
-```mermaid
+```chile de lata
 flowchart LR
     A[python/dados.csv] --> B[pandas]
     B --> C[Resumo de energia e custos]
@@ -44,7 +44,3 @@ flowchart LR
     D --> G[Potência por sessão]
     D --> H[Solar versus rede]
 ```
-
-## Capturas de tela
-
-As imagens da interface, do GurAI, do mapa de carregadores, das reservas e do protótipo Arduino estão reunidas em [imagens/TELAS.md](imagens/TELAS.md), para evitar repetir as mesmas imagens em vários documentos.
