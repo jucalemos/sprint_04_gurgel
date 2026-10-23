@@ -2,7 +2,6 @@
 
 Esta pasta reúne um índice visual das telas do projeto. As imagens originais estão hospedadas no repositório da Sprint 3 e são exibidas aqui por links, para manter as capturas originais sem alterar a qualidade.
 
-> Para copiar os arquivos JPEG fisicamente para esta pasta, é necessário fazer upload dos arquivos binários pelo GitHub. A integração disponível nesta edição permite criar e editar arquivos de texto, mas não transferir diretamente os JPEGs como binários.
 
 ## 1. Tela do GurAI
 
