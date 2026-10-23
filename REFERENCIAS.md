@@ -7,5 +7,3 @@
 - Matplotlib Documentation: https://matplotlib.org/stable/
 - Seaborn Documentation: https://seaborn.pydata.org/
 - GoodWe — site oficial: https://www.goodwe.com/
-
-Consulte a documentação específica das versões e dos equipamentos efetivamente utilizados antes de afirmar compatibilidade técnica.
