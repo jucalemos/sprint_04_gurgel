@@ -1,7 +1,5 @@
 # Diagramas e telas — Gurgel Sprint 4
 
-Este documento reúne o fluxo funcional documentado e imagens demonstrativas do projeto. As imagens de interface foram reutilizadas do repositório da Sprint 3 para preservar o material já produzido pela equipe.
-
 ## 1. Arquitetura conceitual do Gurgel
 
 ```mermaid
@@ -76,5 +74,3 @@ flowchart LR
 ### Reservas
 
 ![Tela de reservas](https://raw.githubusercontent.com/jucalemos/sprint_03_gurgel/main/imagens/reservas.jpeg)
-
-As imagens de interface registram telas já existentes no material da Sprint 3; não devem ser interpretadas como evidência de que pagamentos, reservas ou controle de hardware estejam integrados e operacionais, a menos que a equipe tenha demonstrado esses fluxos no vídeo final.
