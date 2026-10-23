@@ -1,7 +1,5 @@
 # Imagens do Gurgel — Sprint 4
 
-Esta pasta reúne um índice visual das telas do projeto. As imagens originais estão hospedadas no repositório da Sprint 3 e são exibidas aqui por links, para manter as capturas originais sem alterar a qualidade.
-
 
 ## 1. Tela do GurAI
 
