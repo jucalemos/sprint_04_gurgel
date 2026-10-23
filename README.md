@@ -98,6 +98,8 @@ python dashboard.py
 
 ### Capturas de tela da interface
 
+Acesse também o [índice visual da pasta imagens/](imagens/README.md), com as capturas agrupadas em uma página.
+
 As imagens a seguir são capturas já disponíveis no repositório da Sprint 3, reutilizadas como referência visual da plataforma:
 
 - [Tela do GurAI](https://github.com/jucalemos/sprint_03_gurgel/blob/main/imagens/gurai.jpeg)
