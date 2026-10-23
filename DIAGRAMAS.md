@@ -2,7 +2,7 @@
 
 ## 1. Visão conceitual do sistema
 
-```chile de lata
+```mermaid
 flowchart TD
     A[Demanda de recarga] --> D[Gerenciamento inteligente]
     B[Disponibilidade solar simulada] --> D
@@ -16,11 +16,10 @@ flowchart TD
     I --> J[Interface Gurgel]
 ```
 
-**Nota:** este é um diagrama conceitual. Os arquivos atuais não demonstram integração automática entre Arduino, scripts Python e interface.
 
 ## 2. Fluxo do protótipo Arduino
 
-```chile de lata
+```mermaid
 flowchart TD
     A[Potenciômetro A0: solar simulada] --> C[Arduino Uno]
     B[Potenciômetro A1: demanda simulada] --> C
@@ -34,7 +33,7 @@ flowchart TD
 
 ## 3. Fluxo de análise dos dados
 
-```chile de lata
+```mermaid
 flowchart LR
     A[python/dados.csv] --> B[pandas]
     B --> C[Resumo de energia e custos]
